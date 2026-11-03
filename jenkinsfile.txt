@@ -29,7 +29,7 @@ stage('Étape 4 : Fin du build'){
 steps {
 bat 'echo === Étape 4 : Fin du build ==='
 bat 'echo SUCCESS'
-}
+}}}
 }
 }
 post {
